@@ -38,12 +38,19 @@
 
 **Now in order to add tokens in the wallet we can add them via sepolia faucet,these are the test token because we can't efford the etherum coin , also for the learning purpose we use them , these faucet can be get from the Google Cloud.**
 
-![430856293-015216ac-1931-407c-a698-238a237f2c91](https://github.com/user-attachments/assets/88cce6d3-829c-46fa-b518-c5707e6fe9de)
+![WhatsApp Image 2025-05-18 at 15 31 51 (1)](https://github.com/user-attachments/assets/d1e200d9-3be9-49e7-95c1-0ad2e891f93a)
+
+
+![WhatsApp Image 2025-05-18 at 15 26 32](https://github.com/user-attachments/assets/dbb348aa-ee44-469a-8073-1de2f412909f)
 
 **in the above we need to select our network and add our public key then click on recieve.
 you will get some test tokens...**
 
-![Screenshot (156)](https://github.com/user-attachments/assets/707491b9-02e2-4f3f-8d55-46d95eba18a0)
+![WhatsApp Image 2025-05-18 at 14 30 27](https://github.com/user-attachments/assets/96537ffe-9f9d-41d2-b256-71e0eaef512a)
+
+![WhatsApp Image 2025-05-18 at 15 27 33](https://github.com/user-attachments/assets/70c91333-c14e-4819-befb-012ddba8fb52)
+
+
 
 
 **Now if we want to send money,we can di it by....**
@@ -60,4 +67,7 @@ you will get some test tokens...**
 
 **And, continue**
 
-![Screenshot (161)](https://github.com/user-attachments/assets/780f4409-1f64-484e-b319-4796e8e1b154)
+![WhatsApp Image 2025-05-18 at 15 29 29 (1)](https://github.com/user-attachments/assets/3326a0e4-dc6d-4c39-b86b-f0479da72266)
+
+![WhatsApp Image 2025-05-18 at 15 44 21](https://github.com/user-attachments/assets/d486a094-e055-4229-a759-0e63b5ae8327)
+
